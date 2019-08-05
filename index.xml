@@ -5,12 +5,20 @@
     <link>https://tnlin.github.io/</link>
       <atom:link href="https://tnlin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tony Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tnlin.github.io/img/icon-192.png</url>
       <title>Tony Lin</title>
       <link>https://tnlin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Deep Unknown Intent Detection with Margin Loss</title>
+      <link>https://tnlin.github.io/publication/lin-xu-2019-deep/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/publication/lin-xu-2019-deep/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

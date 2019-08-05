@@ -5,7 +5,7 @@
     <link>https://tnlin.github.io/authors/</link>
       <atom:link href="https://tnlin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tnlin.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,13 +13,27 @@
     </image>
     
     <item>
+      <title>Hua Xu</title>
+      <link>https://tnlin.github.io/authors/hua-xu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/authors/hua-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ting-En Lin</title>
+      <link>https://tnlin.github.io/authors/ting-en-lin/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/authors/ting-en-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://tnlin.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tnlin.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Tony Lin is a master&amp;rsquo;s student of Computer Science at the Tsinghua IAR Lab. His research interests include natural language processing, spoken dialogue system and deep learning.&lt;/p&gt;
 </description>
     </item>
     

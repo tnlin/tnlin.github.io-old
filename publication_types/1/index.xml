@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Tony Lin</title>
-    <link>https://tnlin.github.io/publication/</link>
-      <atom:link href="https://tnlin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>1 | Tony Lin</title>
+    <link>https://tnlin.github.io/publication_types/1/</link>
+      <atom:link href="https://tnlin.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tnlin.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>https://tnlin.github.io/publication/</link>
+      <title>1</title>
+      <link>https://tnlin.github.io/publication_types/1/</link>
     </image>
     
     <item>
