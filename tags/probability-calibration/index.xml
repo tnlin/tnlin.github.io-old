@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probability calibration | Tony Lin</title>
+    <link>https://tnlin.github.io/tags/probability-calibration/</link>
+      <atom:link href="https://tnlin.github.io/tags/probability-calibration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Probability calibration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tnlin.github.io/img/icon-192.png</url>
+      <title>Probability calibration</title>
+      <link>https://tnlin.github.io/tags/probability-calibration/</link>
+    </image>
+    
+    <item>
+      <title>A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier</title>
+      <link>https://tnlin.github.io/publication/lin-2019104979/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/publication/lin-2019104979/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

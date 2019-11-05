@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>Deep Unknown Intent Detection with Margin Loss</title>
-      <link>https://tnlin.github.io/publication/lin-xu-2019-deep/</link>
+      <title>Publications</title>
+      <link>https://tnlin.github.io/publication/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://tnlin.github.io/publication/lin-xu-2019-deep/</guid>
+      <guid>https://tnlin.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://tnlin.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://tnlin.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/talk/</guid>
       <description></description>
     </item>
     

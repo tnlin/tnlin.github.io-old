@@ -5,13 +5,11 @@
   <url>
     <loc>https://tnlin.github.io/publication_types/1/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tnlin.github.io/authors/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -22,13 +20,11 @@
   <url>
     <loc>https://tnlin.github.io/authors/hua-xu/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tnlin.github.io/publication_types/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,13 +35,56 @@
   <url>
     <loc>https://tnlin.github.io/authors/ting-en-lin/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tnlin.github.io/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/publication_types/2/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/publication/lin-2019104979/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/tags/deep-neural-network/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/tags/dialogue-system/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/tags/novelty-detection/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/tags/open-world-classification/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/tags/platt-scaling/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/tags/probability-calibration/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tnlin.github.io/tags/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,7 +93,6 @@
   
   <url>
     <loc>https://tnlin.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -63,11 +101,6 @@
   
   <url>
     <loc>https://tnlin.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tnlin.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

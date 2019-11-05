@@ -5,12 +5,60 @@
     <link>https://tnlin.github.io/tags/</link>
       <atom:link href="https://tnlin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ting-En Lin. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tnlin.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://tnlin.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep neural network</title>
+      <link>https://tnlin.github.io/tags/deep-neural-network/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/tags/deep-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialogue system</title>
+      <link>https://tnlin.github.io/tags/dialogue-system/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/tags/dialogue-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novelty detection</title>
+      <link>https://tnlin.github.io/tags/novelty-detection/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/tags/novelty-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-world classification</title>
+      <link>https://tnlin.github.io/tags/open-world-classification/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/tags/open-world-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platt scaling</title>
+      <link>https://tnlin.github.io/tags/platt-scaling/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/tags/platt-scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability calibration</title>
+      <link>https://tnlin.github.io/tags/probability-calibration/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tnlin.github.io/tags/probability-calibration/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
